@@ -6,8 +6,8 @@ const CONFIG = {
     role: "Data Scientist",
     bio: "I fit functions to data",
     email: "nirnayroy97@gmail.com",
-    linkedin: "https://www.linkedin.com/in/nirnay-roy-96b796103/",
-    github: "https://github.com/nirnayroy",
+    linkedin: "nirnay-roy-96b796103",
+    github: "nirnayroy",
     instagram: "",
   },
   projects: [

@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Nirnay Roy",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data Scientist",
-    bio: "I fit functions to data",
+    bio: "Let's go or be dragged.",
     email: "nirnayroy97@gmail.com",
     linkedin: "nirnay-roy-96b796103",
     github: "nirnayroy",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "natural-stupidity-chronicles",
-    description: "Let go or be dragged.",
+    description: "Let's go or be dragged.",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 

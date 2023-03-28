@@ -11,6 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
+    {
+      name: `Enlyft`,
+      href: "https://enlyft.com/",
+    },
   ],
   // blog setting (required)
   blog: {
